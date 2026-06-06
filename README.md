@@ -12,7 +12,7 @@ Customer churn directly impacts revenue and business growth. This dashboard help
 
 - Total Customers
 - Churn Rate %
-- Revenue at Risk
+- Revenue at Risk 
 - Average Tenure
 
 ## Visualizations
