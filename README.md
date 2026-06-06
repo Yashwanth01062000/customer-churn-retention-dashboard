@@ -10,7 +10,7 @@ Customer churn directly impacts revenue and business growth. This dashboard help
 
 ## Dashboard Preview
 
-![Dashboard](dashboard-overview.jpg)
+![Dashboard](dashboard-overview.jpg.jpg)
 
 ## Key KPIs
 
