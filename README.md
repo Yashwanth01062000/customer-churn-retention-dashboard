@@ -8,6 +8,9 @@ This Power BI dashboard analyzes customer churn behavior and retention trends us
 
 Customer churn directly impacts revenue and business growth. This dashboard helps identify churn patterns, customer risk indicators, and retention opportunities.
 
+## Dasboard Overview
+![Dashboard](Dashboard Overview.jpg)
+
 ## Key KPIs
 
 - Total Customers
